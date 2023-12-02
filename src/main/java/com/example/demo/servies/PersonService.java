@@ -1,6 +1,6 @@
 package com.example.demo.servies;
 
-import com.example.demo.Entities.Person;
+import com.example.demo.entities.Person;
 import com.example.demo.repository.PersonRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;

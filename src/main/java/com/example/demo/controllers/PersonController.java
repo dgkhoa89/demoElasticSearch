@@ -1,6 +1,6 @@
 package com.example.demo.controllers;
 
-import com.example.demo.Entities.Person;
+import com.example.demo.entities.Person;
 import com.example.demo.servies.PersonService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
